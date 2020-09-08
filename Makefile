@@ -63,7 +63,7 @@ FLOCQ=\
   Bracket.v Div.v Operations.v Round.v Sqrt.v \
   Div_sqrt_error.v Mult_error.v Plus_error.v \
   Relative.v Sterbenz.v Round_odd.v Double_rounding.v \
-  Binary.v Bits.v
+  BinarySingleNaN.v Binary.v Bits.v
 else
 FLOCQ=
 endif
